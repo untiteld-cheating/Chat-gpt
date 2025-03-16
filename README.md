@@ -1,2 +1,2 @@
 # Chat-gpt
-a chatgpt jailbreal
+a chatgpt jailbreak
